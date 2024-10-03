@@ -1,0 +1,16 @@
+a{
+    background-color: rgb(5, 26, 19);
+    height: 100px;
+    width: 100px;
+    color: aliceblue;
+    text-decoration-line: none;
+    border-radius: 10px;
+padding: 10px ;
+
+}
+div ~p{
+    color: aqua;
+}
+p::first-letter{
+    font-size: 100px;
+}
